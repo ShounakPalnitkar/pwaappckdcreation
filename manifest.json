@@ -1,23 +1,21 @@
 {
-  "name": "CKD Risk Assessment Tool",
+  "name": "Chronic Kidney Disease Prediction Tool",
   "short_name": "CKD Tool",
-  "description": "Assess your risk for chronic kidney disease with this interactive tool",
-  "start_url": "/index.html",
+  "description": "Assess your risk for chronic kidney disease",
+  "start_url": "/",
   "display": "standalone",
-  "background_color": "#f5f9fc",
+  "background_color": "#1a6fc9",
   "theme_color": "#1a6fc9",
   "icons": [
     {
-      "src": "/ckdimage-1.jpg",
-      "sizes": "192x192",
-      "type": "image/jpeg",
-      "purpose": "any"
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
     },
     {
-      "src": "/ckdimage-1.jpg",
-      "sizes": "512x512",
-      "type": "image/jpeg",
-      "purpose": "any"
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ]
 }
